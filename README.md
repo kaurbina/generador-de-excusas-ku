@@ -1,2 +1,2 @@
 # generador-de-excusas-ku
-Generador de excusas KU-Prueba.
+Generador de excusas KU.
