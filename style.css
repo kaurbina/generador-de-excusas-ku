@@ -1,0 +1,10 @@
+body {
+    font-family: 'Comic Neue', cursive;
+    font-size: 40px;
+    border: plum double 2px; 
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
